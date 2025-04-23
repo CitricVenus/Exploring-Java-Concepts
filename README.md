@@ -98,6 +98,7 @@ Assignment Tasks:
         Print the result of each calculation.
 
 Project: Dragon Cave 
+
 Details: In this game, you find yourself in a land inhabited by dragons. Each dragon resides in a cave filled with its hoarded treasures. Some dragons are benevolent and willingly share their riches, while others are ravenous and devour anyone who dares to enter their domain.
 
 You stand before two caves, unable to discern which dragon lurks within each. Your task is to choose wisely.
